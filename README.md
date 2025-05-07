@@ -1,10 +1,14 @@
 Budget-Tracker
+
 Take charge of your finances with ease! This Python code empowers you to set and manage your budget, track your income, expenses, savings, and much more. Gain valuable insights into your financial habits and make informed decisions. Start your journey toward financial wellness today with Budget Tracker!
 
 Personal Budget Tracker
+
 Take control of your finances with the Budget Tracker, a user-friendly Python application designed to help you manage your expenses, track your income, and gain insights into your financial health.
 
 Features
+
+
 𝗨𝘀𝗲𝗿-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲: Effortlessly navigate through an intuitive interface.
 
 𝗦𝗲𝗰𝘂𝗿𝗲 𝗟𝗼𝗴𝗶𝗻: Protect your financial data with secure login credentials.
