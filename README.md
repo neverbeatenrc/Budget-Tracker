@@ -28,10 +28,13 @@ Features
 𝗨𝘀𝗲𝗿 𝗥𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻: Create a personal account for easy access.
 
 Getting Started
-Clone the repository.
-Run the Python script using your preferred environment.
-Follow the on-screen prompts to manage expenses, incomes, and more.
+
+1. Clone the repository.
+2. Run the Python script using your preferred environment.
+3. Follow the on-screen prompts to manage expenses, incomes, and more.
+
 Acknowledgements
+
 The Personal Budget Tracker is inspired by the need for effective and simple financial management tools. We thank the open-source community for its contributions to similar projects that have paved the way for this application..
 
 🌐 Connect with Me
